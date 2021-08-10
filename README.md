@@ -1,2 +1,2 @@
 # react-hooks-plus
-A collection of common react hooks, optimised for tree shaking
+A collection of common react hooks, typed, tested and optimised for every occasion.
